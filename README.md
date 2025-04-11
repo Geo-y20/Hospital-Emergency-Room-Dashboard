@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a detailed and interactive analysis of **hospital emergency room operations**. The report is designed to assist **healthcare administrators**, **analysts**, and **policy planners** in understanding patient flow, admission patterns, wait times, and satisfaction trends across multiple dimensions.
 
-![Monthly View](https://github.com/Geo-y20/Hospital-ER-Dashboard/blob/main/Montly%20View.png)
+![Monthly View](https://github.com/Geo-y20/Hospital-Emergency-Room-Dashboard/blob/main/Montly%20View.png)
 
 ---
 
