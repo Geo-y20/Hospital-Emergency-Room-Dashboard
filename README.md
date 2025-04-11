@@ -61,7 +61,7 @@ A dynamic table allowing full exploration of:
 - **Department referrals**
 - **Admission status**
 
-![Patient Details](https://github.com/Geo-y20/Hospital-ER-Dashboard/blob/main/Patient%20details.png)
+![Patient Details](https://github.com/Geo-y20/Hospital-Emergency-Room-Dashboard/blob/main/Patient%20details.png)
 
 ---
 
